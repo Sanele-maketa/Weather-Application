@@ -46,14 +46,15 @@ main {
     font-size: 88px;
     font-weight: bold;
     margin-left: 10px;
+    line-height: 88px;
 }
 .weather-icon {
-    font-size: 45px;
-    margin-top: 22px;
+    width: 88px;
+    height: 88px;
     
 }
 .weather-app-unit {
-    margin-top: 16px;
+    margin-top: 6px;
     font-size: 28px;
 }
 header
